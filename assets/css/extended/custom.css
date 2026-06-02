@@ -1,0 +1,6 @@
+/* Profile image — maintain aspect ratio, circular crop */
+.profile_inner img {
+  object-fit: contain;
+  border-radius: 100%;
+  aspect-ratio: 1 / 1;
+}
