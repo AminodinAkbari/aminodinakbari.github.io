@@ -1,0 +1,160 @@
+baseURL = "https://aminodinakbari.github.io/"
+theme = "PaperMod"
+
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+
+enableRobotsTXT = true
+enableEmoji    = true
+enableGitInfo  = false
+
+[pagination]
+pagerSize = 10
+
+[sitemap]
+changefreq = "monthly"
+priority   = 0.5
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+# ─── Global params (apply to both languages unless overridden) ───────────────
+[params]
+defaultTheme        = "auto"
+ShowReadingTime     = false
+ShowBreadCrumbs     = true
+ShowCodeCopyButtons = true
+author              = "Amin Akbari"
+description         = "Backend Engineer specializing in Python, FastAPI, Django REST Framework, PostgreSQL, Redis, and Docker."
+keywords            = ["backend engineer", "python developer", "fastapi", "django", "postgresql", "portfolio"]
+canonicalURLs       = true
+
+[[params.socialIcons]]
+name = "github"
+url  = "https://github.com/AminodinAkbari"
+
+[[params.socialIcons]]
+name = "email"
+url  = "mailto:aminakbari.young2021@gmail.com"
+
+# ─── English ─────────────────────────────────────────────────────────────────
+[languages.en]
+label        = "English"
+weight       = 1
+title        = "Amin Akbari — Backend Engineer"
+
+[languages.en.params.profileMode]
+enabled    = true
+title      = "Amin Akbari"
+subtitle   = "Backend Engineer · Python · FastAPI · Django REST Framework · Docker · Linux"
+imageUrl   = "/images/profile.png"
+imageTitle = "Amin Akbari"
+imageWidth  = 340
+imageHeight = 290
+
+[[languages.en.params.profileMode.buttons]]
+name = "Experience"
+url  = "/en/experience/"
+
+[[languages.en.params.profileMode.buttons]]
+name = "Projects"
+url  = "/en/projects/"
+
+[[languages.en.params.profileMode.buttons]]
+name = "Skills"
+url  = "/en/skills/"
+
+[languages.en.menu]
+
+[[languages.en.menu.main]]
+identifier = "about"
+name       = "About"
+url        = "/en/about/"
+weight     = 10
+
+[[languages.en.menu.main]]
+identifier = "experience"
+name       = "Experience"
+url        = "/en/experience/"
+weight     = 20
+
+[[languages.en.menu.main]]
+identifier = "projects"
+name       = "Projects"
+url        = "/en/projects/"
+weight     = 30
+
+[[languages.en.menu.main]]
+identifier = "skills"
+name       = "Skills"
+url        = "/en/skills/"
+weight     = 40
+
+[[languages.en.menu.main]]
+identifier = "education"
+name       = "Education"
+url        = "/en/education/"
+weight     = 50
+
+# ─── Persian ─────────────────────────────────────────────────────────────────
+[languages.fa]
+label        = "فارسی"
+weight       = 2
+direction    = "rtl"
+title        = "امین اکبری — برنامه‌نویس بک‌اند"
+
+[languages.fa.params]
+description = "برنامه‌نویس بک‌اند متخصص در پایتون، FastAPI، جنگو، PostgreSQL، Redis و داکر."
+
+[languages.fa.params.profileMode]
+enabled    = true
+title      = "امین اکبری"
+subtitle   = "برنامه‌نویس بک‌اند · پایتون · FastAPI · جنگو · داکر · لینوکس"
+imageUrl   = "/images/profile.png"
+imageTitle = "امین اکبری"
+imageWidth  = 300
+imageHeight = 300
+
+[[languages.fa.params.profileMode.buttons]]
+name = "تجربه"
+url  = "/fa/experience/"
+
+[[languages.fa.params.profileMode.buttons]]
+name = "پروژه‌ها"
+url  = "/fa/projects/"
+
+[[languages.fa.params.profileMode.buttons]]
+name = "مهارت‌ها"
+url  = "/fa/skills/"
+
+[languages.fa.menu]
+
+[[languages.fa.menu.main]]
+identifier = "about"
+name       = "درباره من"
+url        = "/fa/about/"
+weight     = 10
+
+[[languages.fa.menu.main]]
+identifier = "experience"
+name       = "تجربه"
+url        = "/fa/experience/"
+weight     = 20
+
+[[languages.fa.menu.main]]
+identifier = "projects"
+name       = "پروژه‌ها"
+url        = "/fa/projects/"
+weight     = 30
+
+[[languages.fa.menu.main]]
+identifier = "skills"
+name       = "مهارت‌ها"
+url        = "/fa/skills/"
+weight     = 40
+
+[[languages.fa.menu.main]]
+identifier = "education"
+name       = "تحصیلات"
+url        = "/fa/education/"
+weight     = 50
