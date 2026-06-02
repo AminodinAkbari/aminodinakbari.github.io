@@ -31,7 +31,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify --gc
+        run: hugo --minify --gc --baseURL "https://aminodinakbari.github.io/"
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
