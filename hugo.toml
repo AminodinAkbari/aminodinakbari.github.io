@@ -1,4 +1,4 @@
-baseURL = "https://aminodinakbari.github.io/"
+baseURL = "https://Aminoddinodinakbari.github.io/"
 theme = "PaperMod"
 
 defaultContentLanguage = "en"
@@ -24,31 +24,36 @@ defaultTheme        = "auto"
 ShowReadingTime     = false
 ShowBreadCrumbs     = true
 ShowCodeCopyButtons = true
-author              = "Amin Akbari"
+author              = "Aminoddin Akbari"
 description         = "Backend Engineer specializing in Python, FastAPI, Django REST Framework, PostgreSQL, Redis, and Docker."
 keywords            = ["backend engineer", "python developer", "fastapi", "django", "postgresql", "portfolio"]
 canonicalURLs       = true
 
 [[params.socialIcons]]
 name = "github"
-url  = "https://github.com/AminodinAkbari"
+url  = "https://github.com/AminoddinodinAkbari"
 
 [[params.socialIcons]]
 name = "email"
-url  = "mailto:aminakbari.young2021@gmail.com"
+url  = "mailto:Aminoddinakbari.young2021@gmail.com"
+
+[[params.socialIcons]]
+name = "linkedin"
+url  = "https://www.linkedin.com/in/aminodin-akbari/"
+
 
 # ─── English ─────────────────────────────────────────────────────────────────
 [languages.en]
 label        = "English"
 weight       = 1
-title        = "Amin Akbari — Backend Engineer"
+title        = "Aminoddin Akbari — Backend Engineer"
 
 [languages.en.params.profileMode]
 enabled    = true
-title      = "Amin Akbari"
+title      = "Aminoddin Akbari"
 subtitle   = "Backend Engineer · Python · FastAPI · Django REST Framework · Docker · Linux"
 imageUrl   = "/images/profile.png"
-imageTitle = "Amin Akbari"
+imageTitle = "Aminoddin Akbari"
 imageWidth  = 340
 imageHeight = 290
 
@@ -101,17 +106,17 @@ weight     = 50
 label        = "فارسی"
 weight       = 2
 direction    = "rtl"
-title        = "امین اکبری — برنامه‌نویس بک‌اند"
+title        = "امین الدین اکبری — برنامه‌نویس بک‌اند"
 
 [languages.fa.params]
 description = "برنامه‌نویس بک‌اند متخصص در پایتون، FastAPI، جنگو، PostgreSQL، Redis و داکر."
 
 [languages.fa.params.profileMode]
 enabled    = true
-title      = "امین اکبری"
+title      = "امین الدین اکبری"
 subtitle   = "برنامه‌نویس بک‌اند · پایتون · FastAPI · جنگو · داکر · لینوکس"
 imageUrl   = "/images/profile.png"
-imageTitle = "امین اکبری"
+imageTitle = "امین الدین اکبری"
 imageWidth  = 300
 imageHeight = 300
 
