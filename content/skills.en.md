@@ -2,39 +2,56 @@
 title: "Skills"
 ---
 
-## Backend
+## Backend Development
 
 - Python
 - FastAPI
 - Django
-- Django REST Framework
+- Django REST Framework (DRF)
 
 ## Databases
 
 - PostgreSQL
 - MongoDB
 - Redis
+- Database Design Fundamentals
 
-## DevOps & Infrastructure
+## Infrastructure & Deployment
 
 - Docker
-- Linux
+- Linux Server Administration
 - Nginx
-- CI/CD Concepts
+- Production Deployments
 
 ## Monitoring & Observability
 
 - Prometheus
 - Grafana
 
-## Search & Analytics
+## Search & Data Exploration
 
 - Elasticsearch
 - Kibana
 
 ## Software Engineering
 
+- Git
 - Software Testing
 - SOLID Principles
-- Git
-- Software Architecture
+- Software Architecture Fundamentals
+- Technical Documentation
+
+## Development Practices
+
+- CI/CD Concepts
+- Debugging & Troubleshooting
+- Working with Legacy Codebases
+- API Design
+
+## Currently Learning
+
+- React
+- Advanced System Design
+- Security Fundamentals
+
+---

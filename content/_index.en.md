@@ -2,7 +2,7 @@
 title: "Home"
 ---
 
-# Aminodin Akbari
+# Aminoddinodin Akbari
 
 Backend Engineer
 

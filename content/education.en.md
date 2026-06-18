@@ -6,9 +6,9 @@ title: "Education"
 
 Islamic Azad University
 
-2025 – Present
+**2025 – Present**
 
-Currently completing the final stage of the degree (thesis).
+Currently completing the final stage of the program, with the master's thesis remaining.
 
 ---
 
@@ -16,4 +16,6 @@ Currently completing the final stage of the degree (thesis).
 
 Kharazmi University of Malayer
 
-2019 – 2025
+**2019 – 2025**
+
+---
