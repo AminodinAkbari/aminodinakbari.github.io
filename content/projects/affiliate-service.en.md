@@ -1,5 +1,5 @@
 ---
-title: "Affiliate Service 🤝"
+title: "Affiliate Service"
 date: 2024-10-02
 description: "An affiliate marketing backend that handles referral links, click tracking, commission logic, and Stripe webhooks — built for scalability with MongoDB and Redis."
 tags:

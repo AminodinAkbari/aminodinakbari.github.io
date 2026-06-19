@@ -1,5 +1,5 @@
 ---
-title: "Jobinja Web Scraper 🦎"
+title: "Jobinja Web Scraper"
 date: 2024-02-14
 description: "A Python web scraper that authenticates on Jobinja.ir, extracts job listings, exports them to CSV, and presents insights on a dashboard – built with BeautifulSoup, Pandas, and GitLab CI/CD."
 tags:

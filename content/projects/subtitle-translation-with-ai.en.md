@@ -1,5 +1,5 @@
 ---
-title: "AI - Subtitle Translation Microservice 🇳🇴"
+title: "AI - Subtitle Translation Microservice"
 date: 2024-05-16
 description: "An async FastAPI microservice that translates video subtitles between any languages using OpenRouter's Gemini API – with background job tracking and MongoDB persistence."
 tags: ["Python", "FastAPI", "OpenRouter", "MongoDB", "Gemini", "LLM", "Docker"]

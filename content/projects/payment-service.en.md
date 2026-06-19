@@ -1,5 +1,5 @@
 ---
-title: "Payment Service 💰"
+title: "Payment Service"
 date: 2024-10-02
 description: "A robust microservice that wraps Stripe, manages subscriptions, and exposes a clean REST API with secure cookie-based authentication."
 tags:

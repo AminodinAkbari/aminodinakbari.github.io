@@ -1,5 +1,5 @@
 ---
-title: "سرویس Affiliate یا همکاری در فروش 🤝"
+title: "سرویس Affiliate یا همکاری در فروش"
 date: 2024-02-21
 description: "یک بک‌اند affiliate marketing که لینک‌های referral، رهگیری کلیک، منطق کمیسیون و webhookهای Stripe را مدیریت می‌کند — با مقیاس‌پذیری بالا با MongoDB و Redis."
 tags:
