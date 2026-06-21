@@ -16,7 +16,7 @@ tags:
     "Vite",
     "OpenRouter",
     "GPT",
-    "LLM"
+    "LLM",
   ]
 weight: 4
 link: https://test/com
@@ -26,7 +26,7 @@ featured: true
 
 ## مرور کلی
 
-**ByteAndWords** یک پلتفرم وبلاگ‌نویسی کاملاً سفارشی و آماده production است که برای نویسندگان فنی طراحی شده است. این پلتفرم دارای یک **رابط کاربری دو زبانه (انگلیسی/فارسی)**، یک داشبورد مدیریتی غنی برای نویسندگان، نظرات تو در تو (threaded comments) با قابلیت لایک و قابلیت‌های جستجوی قدرتمند می‌باشد. بک‌اند یک API مبتنی بر Django REST Framework با جستجوی full‑text PostgreSQL و تسک‌های Celery با Redis است و فرانت‌اند یک SPA با React و Tailwind CSS با تم دارک/لایت الهام‌گرفته از ترمینال می‌باشد. کل پروژه با Docker containerized شده و برای deployment آماده است.
+**Sudo Explain** یک پلتفرم وبلاگ‌نویسی کاملاً سفارشی و آماده production است که برای نویسندگان فنی طراحی شده است. این پلتفرم دارای یک **رابط کاربری دو زبانه (انگلیسی/فارسی)**، یک داشبورد مدیریتی غنی برای نویسندگان، نظرات تو در تو (threaded comments) با قابلیت لایک و قابلیت‌های جستجوی قدرتمند می‌باشد. بک‌اند یک API مبتنی بر Django REST Framework با جستجوی full‑text PostgreSQL و تسک‌های Celery با Redis است و فرانت‌اند یک SPA با React و Tailwind CSS با تم دارک/لایت الهام‌گرفته از ترمینال می‌باشد. کل پروژه با Docker containerized شده و برای deployment آماده است.
 
 این وبلاگ یک قابلیت Async نیز دارد که در Background به یک هوش مصنوعی متصل می باشد تا خلاصه متن پست را دریافت کرده و در دیتابیس ذخیره می کند.
 
@@ -51,7 +51,7 @@ featured: true
 | احراز هویت  | JWT (Simple JWT)                        |
 | جستجو       | PostgreSQL Full‑Text Search + Trigram   |
 | DevOps      | Docker, Docker Compose, Gunicorn, Nginx |
-|AI/LLM|Openrouter (GPT 4o mini) |
+| AI/LLM      | Openrouter (GPT 4o mini)                |
 
 ## آموخته‌ها
 

@@ -25,7 +25,7 @@ featured: true
 
 ## Overview
 
-**ByteAndWords** is a fully custom, production‑ready blogging platform designed for technical writers. It features a **bilingual (English/Persian) interface**, a rich admin dashboard for authors, threaded comments with likes, and robust search capabilities. The backend is a Django REST Framework API with PostgreSQL full‑text search and Redis‑powered Celery tasks, while the frontend is a React SPA with Tailwind CSS and a terminal‑inspired dark/light theme. The entire project is containerised with Docker and ready for deployment.
+**Sudo Explain** is a fully custom, production‑ready blogging platform designed for technical writers. It features a **bilingual (English/Persian) interface**, a rich admin dashboard for authors, threaded comments with likes, and robust search capabilities. The backend is a Django REST Framework API with PostgreSQL full‑text search and Redis‑powered Celery tasks, while the frontend is a React SPA with Tailwind CSS and a terminal‑inspired dark/light theme. The entire project is containerised with Docker and ready for deployment.
 
 This blog also has an Async feature that connects to an AI in the background to receive the post summary and store it in the database.
 
